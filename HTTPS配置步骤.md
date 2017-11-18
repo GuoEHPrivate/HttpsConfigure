@@ -116,7 +116,7 @@ TODO
 
 ![ie5](https://github.com/GuoEHPrivate/HttpsConfigure/raw/init/res/ie5.PNG)
 
-![ie6](https://github.com/GuoEHPrivate/HttpsConfigure/raw/init/res/ie6.PNG)
+![ie6](https://github.com/GuoEHPrivate/HttpsConfigure/raw/init/res/ie6.png)
 
 安装完成后，重启IE浏览器，再次打开刚才的链接，此时不会再出现安全提示。
 
