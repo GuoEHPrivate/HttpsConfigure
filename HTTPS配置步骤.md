@@ -218,3 +218,7 @@ PC端证书安装完成。
     }
 
 Android端证书添加完成。
+
+##6.引用
+
+1. [Android安全开发之安全使用HTTPS - 阿里聚安全 - 博客园](https://www.cnblogs.com/alisecurity/p/5939336.html)
