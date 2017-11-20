@@ -150,7 +150,7 @@ PC端证书安装完成。
 
 ![transport1](https://github.com/GuoEHPrivate/HttpsConfigure/raw/init/res/transport1.PNG)
 
-但是，在实际使用时，发现BKS格式的证书并不能使用，反而CRT格式的证书可以直接使用，具体原因未知。因此，下面的方法将介绍CRT格式证书的使用。
+- 但是，在实际使用时，发现BKS格式的证书并不能使用，反而CRT格式的证书可以直接使用，具体原因未知。因此，下面的方法将介绍CRT格式证书的使用。
 
 在使用时直接将`server.crt`导入到工程的`raw`文件夹下。
 
@@ -170,7 +170,6 @@ PC端证书安装完成。
     import java.security.cert.Certificate;
     import java.security.cert.CertificateException;
     import java.security.cert.CertificateFactory;
-    
     public final class NetManager {
 
     	····
@@ -214,7 +213,7 @@ PC端证书安装完成。
         	return null;
     	}
 
-    ····
+    	····
 
     }
 
